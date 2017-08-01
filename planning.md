@@ -6,9 +6,6 @@
   - subtracts life from current player
   - displays current scores
   - determines win condition
-- Turn
-  - determines current and next player
-  - has question
 - Player
   - has lives
   - has an Id
